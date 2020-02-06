@@ -3,4 +3,5 @@ Was annoyed at having a terminal tied to my pdfs when reading them via Zathura. 
 
 # Dependencies
 Zathura
+
 Dmenu
